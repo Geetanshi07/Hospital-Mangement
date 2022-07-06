@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+    <head>
+        <title>RESUME</title>
+<body>
+    <div class="main">
+    <img src="back.jpg"width="1500" height="2200">
+    <div class="main1" >
+        <img src="pic.jpeg" height="160" width="140" style="position: absolute; top:20%; left:80%; border: 2px solid black;">
+    </div>
+    <div class="Heading"  style="position: absolute; top: 10%; left: 40%; font-size: 40px;"><b><u><strong>RESUME</strong></u></b>
+    </div>
+    <div class="basic" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; font-size: 22px; top:33%; left:18%;">
+        <ul style="list-style-type: none;">
+            <li><u><b>NAME:</b></u><br>GEETANSHI </li>
+            <li><u><b>PHONE:</b></u><br>7719519084</li>
+            <li><u><b>EMAIL:</b></u><br>geetanshi709@gmail.com</li>
+        </ul>
+    </div>
+    <div class="basic1"style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; font-size: 22px; top:33%; left:50%;">
+        <ul style="list-style-type: none;">
+            <li><u><b>DOB:</b></u><br>29 March 2003</li>
+            <li><u><b>ADDRESS:</b></u><br>#2049 Sector 69, Mohali</li>
+            <li><u><b>NATIONALITY:</b></u><br>INDIAN</li>
+        </ul>
+    </div>
+    <div class="basic2" style="position: absolute; left: 22%; top: 60%; font-size: 20px; text-align: left; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; ">
+        <dl>
+           <dt>
+            <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" ><u><b><strong>EDUCATION</strong></b></u></p>
+               <dd>
+                   Currently pursuing B.E in CSE in UIET,Chandigarh(1st Year)
+               </dd>
+               <dd>
+                   Passed Senior secondary from CBSE Board with 91%
+               </dd>
+               <dd>
+                   Passed Higher School from CBSE Board with 95.8%
+               </dd>
+           </dt> 
+           <dt>
+            <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" ><u><b><strong>SKILLS</strong></b></u></p>
+               <dd>
+                   <table border="2" style="width: 80%; background-color: #d48498; text-align: center; border-collapse: collapse;">
+                        <tr>
+                            <th style="border-spacing: 5px; padding: 10px;">Sr.No</th>
+                            <th style="border-spacing: 5px; padding: 10px;">LANGUAGE</th>
+                            <th style="border-spacing: 5px; padding: 10px;">COMPLETED</th>
+                        </tr>
+                        <tr>
+                            <td style="border-spacing: 5px; padding: 10px;">1</td>
+                            <td style="border-spacing: 5px; padding: 10px;">C</td>
+                            <td style="border-spacing: 5px; padding: 10px;">95%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-spacing: 5px; padding: 10px;">2</td>
+                            <td style="border-spacing: 5px; padding: 10px;">C++</td>
+                            <td style="border-spacing: 5px; padding: 10px;">85-90%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-spacing: 5px; padding: 10px;">3</td>
+                            <td style="border-spacing: 5px; padding: 10px;">HTML and CSS</td>
+                            <td style="border-spacing: 5px; padding: 10px;">70-80%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-spacing: 5px; padding: 10px;">5</td>
+                            <td style="border-spacing: 5px; padding: 10px;">Python</td>
+                            <td style="border-spacing: 5px; padding: 10px;">Basics</td>
+                        </tr>
+                   </table>
+               </dd>
+               <dd>
+                   <br>Apart from these,I am also good in:-
+                   <ol type="i">
+                       <li>Communication skills</li>
+                       <li>Team Management</li>
+                       <li>Active listener</li>
+                       <li>I am also a member of rotaract club</li>
+                   </ol>
+               </dd>
+           </dt>
+           <dt>
+            <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" ><u><b><strong>ACHIEVEMENTS</strong></b></u></p>
+            <dd>
+                <ol type="i">
+                    <li>4 star in C language</li>
+                    <li>4 star in C++ language</li>
+                    <li>Successfully made a management project using C++ in a Team </li>
+                    <li>Tic-tac-toe game using python</li>
+                    <li>Good typing speed</li>
+                </ul>
+            </dd>
+           </dt>
+           <dt>
+            <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" ><u><b><strong>CONTACT ME</strong></b></u></p>
+            <dd>
+                Email:<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >geetanshi709@gmail.com</a>
+            </dd>
+            <hr size="2" color="black">
+           </dt>
+        </dl>
+    </div>
+    <div style="position: absolute; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; top: 60%; left: 65%; font-size: 20px; text-align: left;">
+        <p><u><b><strong>HOBBIES</strong></b></u></p>
+               I have a keen interest in Music, i like to sing.<br>I love to play badminton.<br>Usually i like to draw during my free time.       
+    </div>
+    <div class="intro" style="position: absolute; left: 22%; top: 170%; font-size: 22px; text-align: left;">
+        <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"><u><b><br><br><strong>ABOUT ME</strong></b></u><br></p>
+           <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"><b><strong><u>WEB DEVELOPER & PYTHON ENTHUSIAST</u></strong><br></i></b>
+           <br>I am currently pursuing Computer Science Engineering at UIET,Chandigarh.<br>I am committed to learning and self-development so that<br> I can consistently achieve better results.<br>I am always highly enthused about my work and tasks ahead.</fieldset></p>
+           <hr size="2" color="black">
+    </div>
+    <div class="social" style="position: absolute; top: 85%; left: 73%; font-family: cursive; font-size: 22px;">
+        <b>Social Accounts:</b>
+    </div>
+    <div class="images">
+        <a href="https://www.facebook.com/geetanshi.garg.56"><p style="position: absolute; top: 90%; left: 73%; border-radius: 4px; border: 2px solid rgb(10, 10, 10); font-size: 24px;">Facebook</p></a>
+        <a href="https://instagram.com/geetanshi_0729?utm_medium=copy_link"><p style="position: absolute; top: 95%; left:73%; border-radius: 4px; border: 2px solid rgb(20, 19, 19); font-size: 24px;">Instagram</p></a>
+        <a href="https://twitter.com/Geetanshi2907?s=09"><p style="position: absolute; top: 100%; left:73%; border-radius: 4px; border: 2px solid rgb(12, 12, 12); font-size: 24px;">Twitter</p></a>
+        <a href="#"><p style="position: absolute; top: 105%; left:73%; border-radius: 4px; border: 2px solid rgb(18, 18, 19); font-size: 24px;">Linkedin</p></a>
+    </div>
+    <div class="marquee" style="position: absolute; top: 215%; left: 20%; font-size: 22px; font-family: cursive; right: 20%;">
+        <marquee direction="right" speed="slow">Click on the particular icon to redirect to my social profiles</marquee>
+    </div>
+    </div>
+</body>
+</html>

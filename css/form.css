@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+body{
+background-image: url(../Img_project/doc.jpg);
+background-blend-mode: lighten;
+background-size: 100%;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+display: flex;
+align-items: center;
+justify-content: center;
+min-height: 150vh;
+width: 100vw;
+}
+.main{
+background-color:white;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+box-shadow: 0 2.8px 2.2px rgba(0,0,0,0.034), 0 6.7px 5.3px rgba(0,0,0,0.048), 0 12.px;
+overflow: hidden;
+width: calc(100vw-65vw);
+max-width: 100%;
+}
+.main1{
+background:lightskyblue;
+padding: 30px 0;
+}
+.main1 h1{
+color: #222;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 24px;
+text-transform: uppercase;
+text-align: center;
+}
+.form{
+padding: 40px;
+}
+.form-control{
+margin-bottom: 20px;
+position: relative;
+}
+.form-control label{
+display: inline-block;
+margin-bottom: 5px;
+text-align: left;
+}
+
+.form-control input{
+width:100%;
+border: 2px solid solid #f0f0f0;
+display: block;
+font-size: 14px;
+padding: 8px 180px;
+}
+.form-control input:focus{
+outline: 0;
+border-color: #777;
+
+}
+.button{
+background:lightskyblue;
+border-radius: 6px;
+border: none;
+outline: none;
+color: rgb(12, 11, 11);
+display: block;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+padding: 15px 0;
+margin-top: 20px;
+width: 100%;
+font-weight: bold;
+text-transform: uppercase;
+transition: all 1s ease;
+}
+.form .button:hover{
+    color: darkblue;
+}
+.but{
+text-decoration: none;
+background:lightskyblue;
+border-radius: 6px;
+border: 1px solid transparent;
+outline: none;
+color: rgb(12, 11, 11);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+padding: 9px 22px;
+margin-top: 20px;
+width: 100%;
+font-weight: bold;
+text-transform: uppercase;
+transition: all 1s ease;
+display: block;
+text-align: center;
+}
+.form .but:hover{
+    color: darkblue;
+}
